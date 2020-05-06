@@ -11,10 +11,16 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "@react-native-community/async-storage": "^1.10.0",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.2.3",
     "@react-navigation/stack": "^5.2.18",
+    "@types/react-native-vector-icons": "^6.4.5",
+    "@types/yup": "^0.28.0",
+    "@unform/core": "^2.1.0",
+    "@unform/mobile": "^2.1.0",
     "D": "^1.0.0",
+    "axios": "^0.19.2",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
@@ -23,10 +29,13 @@
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "^1.6.1",
+    "react-native-iphone-x-helper": "^1.2.1",
     "react-native-reanimated": "^1.8.0",
     "react-native-safe-area-context": "^0.7.3",
     "react-native-screens": "^2.7.0",
-    "styled-components": "^5.1.0"
+    "react-native-vector-icons": "^6.6.0",
+    "styled-components": "^5.1.0",
+    "yup": "^0.28.5"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
